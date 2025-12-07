@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  .carousel-item {
+    height: 100vh;
+    min-height: 400px;
+    background-size: cover;
+    background-position: center;
+  }
